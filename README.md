@@ -28,3 +28,10 @@ Install dependencies
 
 Then unzip the folder with the data and place it on the Data folder and you are ready to go!
 
+
+## Documentation
+
+[Documentation point 5](https://github.com/MINE4101-SEC1/Taller1/blob/main/Docs/Documento_Inversiones%20inmobiliarias%20para%20alquiler%20vacacional.pdf)
+[Pandas profiling](https://github.com/MINE4101-SEC1/Taller1/blob/main/Docs/profiling.html)
+[Jupyter notebook](https://github.com/MINE4101-SEC1/Taller1/blob/main/taller1.ipynb)
+
