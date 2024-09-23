@@ -11,24 +11,20 @@ El objetivo de este taller es evaluar las capacidades del estudiante para realiz
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/MINE4101-SEC1/Taller1.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Taller1
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+  pip install -r requirements.txt
 ```
 
-Start the server
-
-```bash
-  npm run start
-```
+Then unzip the folder with the data and place it on the Data folder and you are ready to go!
 
